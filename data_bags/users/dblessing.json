@@ -1,0 +1,11 @@
+{
+  "id": "dblessing",
+  "comment": "Drew Blessing",
+  "home": "/home/dblessing",
+  "groups": [
+    "admin"
+  ],
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHPtRKL8i6Gfbx16CdcOvBUAKDVkXNaqwSCYxrQomLKwl2guz5KXwwyYg2ZsKpe3d1PrPBOdZ+uI9Ric9wWSiNkuJv6C1JYTfutmD7/EIpAo585DzRC6H6FO1fp8nEfbqCoqIZTug0iL6bsq7rbo71AAE4t95mwHyz2SOhPYL/Mi97hdIO9PoGBfat9CW1uhUDjeueorEhy8tR68vflJ+NhYQmn16f1mKyc790F68Fd225HeYR/ZA5QXhvf2UvFu7S2Qhm8iDKiu28ZfISrvtHToS8GDIPSYmItQRWFKR2L+9aKZw0wUvR2rG9PFjbEYAu0JXx/0dy65iG36Ee3MOj drew@blessing.io"
+  ]
+}
