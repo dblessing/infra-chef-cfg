@@ -1,0 +1,6 @@
+{
+  "name": "hubot",
+  "run_list": [
+    "recipe[base]"
+  ]
+}
