@@ -8,7 +8,7 @@ DEPENDENCIES
 
 GRAPH
   apt (2.7.0)
-  base (0.2.7)
+  base (0.2.8)
     chef-client (>= 0.0.0)
     consul (>= 0.0.0)
     fail2ban (>= 0.0.0)

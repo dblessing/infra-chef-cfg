@@ -1,5 +1,5 @@
 name 'base'
-version '0.2.7'
+version '0.2.8'
 
 depends 'chef-client'
 depends 'consul'
